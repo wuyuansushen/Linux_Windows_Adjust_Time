@@ -14,3 +14,7 @@ Guide about correcting the BIOS Clock Time interpret diffreence between Ubuntu a
 <img src="new.PNG" />
 
 <img src="value.PNG" />
+
+#### 4.Check you have created this item like this picture
+
+<img src="accomplish.PNG" />
